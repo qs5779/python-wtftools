@@ -2,8 +2,11 @@
 
 Wtf tools provide base functionality for various automation and administration activities.
 
+I am migrating an eariler work into this project to facilitate packaging and setup.
 
-# Installation
+
+
+<!-- # Installation
 
 If you don't use `pipsi`, you're missing out.
 Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
@@ -17,5 +20,4 @@ Simply run:
 
 To use it:
 
-    $ wtflogger --help
-
+    $ wtflogger --help -->
